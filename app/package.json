@@ -13,7 +13,7 @@
     "@types/i18next-node-fs-backend": "^2.1.0"
   },
   "dependencies": {
-    "argon2": "^0.27.2",
+    "argon2": "^0.40.1",
     "keytar": "^7.7.0"
   }
 }
